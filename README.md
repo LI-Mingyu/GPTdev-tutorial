@@ -61,7 +61,17 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 ## API调用及实践
 ## 接入DevOps（两种Deployment/Job）
 
-## 扩展讨论
+
+# 项目实战
+## 需求理解与代码生成
+## 代码review和改进
+## 日志与故障分析
+## 自动化测试
+
+# 扩展讨论
+- 方案设计与招投标评估
+- 面试
+
 - 大语言模型有视觉吗？
 https://chat.openai.com/c/f34a90fa-8d63-4f34-b093-1ab10d829990
 <img width="543" alt="image" src="https://github.com/LI-Mingyu/GPT-md/assets/20229719/23243d5f-1050-4d68-bb8d-48c3e968a718">
