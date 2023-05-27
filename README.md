@@ -1,10 +1,29 @@
-## 当我们谈论GPT，我们在谈论什么？
+# 个人简介
+李明宇，中科院计算所高级工程师，开源项目活跃开发者，20 余年编程与软件开发经验。历任国家重点实验室课题组负责人，上市公司事业群技术总监、首席技术专家。荣获中国软件协会“优秀CTO”等多项荣誉，兼任中国新一代IT产业联盟分委会秘书长、全国高校人工智能与大数据创新联盟专家委员、北京开源创新委员会委员。
+
+# 当我们谈论GPT，我们在谈论什么？
 GPT、ChatGPT、AIGC、LLM、GAI
 
-## GPT-3.5 和 GPT-4 的能力差异
+GPT-3.5 的回答：
+
+<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPT-md/assets/20229719/d24b14ad-7864-4dc6-b9b1-b15e6c0d3c63">
+
+GPT-4 的回答：
+
+<img width="600" alt="image" src="https://github.com/OpenRHINO/RHINO-Operator/assets/20229719/583d3a2c-4486-42be-80ac-bc099e79fbe7">
+
+各种大模型：
+<img width="600" alt="image" src="https://luxiangdong.com/images/AILLMs.png">
+Ref: https://www.luxiangdong.com/2023/04/16/llms/
+
+# GPT-3.5 和 GPT-4 的能力差异
 一只熊在地上放了一罐蜂蜜，它往南走了一百米，又往西走了一百米，最后往北走了一百米，又回到了那罐蜂蜜那里。请问这只熊是什么颜色的？
 
 生成代码的Bug数量（推理能力、序列长度）
+
+## 能力/差距从何而来？
+<font size="3">大</font>、<font size="5">大、</font><font size="6">更</font><font size="7">大</font>
+
 
 ## 一些实际案例
 - https://chat.openai.com/c/a49e15a9-d374-46ae-a68c-25cf2cd30eac
