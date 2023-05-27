@@ -14,7 +14,7 @@ GPT-4 的回答：
 
 各种大模型：
 
-<img width="600" alt="image" src="https://luxiangdong.com/images/AILLMs.png">
+<img width="900" alt="image" src="https://luxiangdong.com/images/AILLMs.png">
 
 Ref: https://www.luxiangdong.com/2023/04/16/llms/
 
@@ -31,8 +31,13 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 
 ## 能力/差距从何而来？
 <font size="3">大</font>、<font size="5">大、</font><font size="6">更</font><font size="7">大</font>
+| 模型  | 发布时间    | 参数量    | 预训练数据量 |
+|------|-------------|----------|-------------|
+| GPT  | 2018 年 6 月| 1.17 亿 | 约 5GB     |
+| GPT-2| 2019 年 2 月| 15 亿   | 40GB       |
+| GPT-3| 2020 年 5 月| 1,750 亿| 45TB       |
 
-<img width="865" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/e43db5c0-66b3-46ba-9a84-4a4d0d3a1034">
+<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/e43db5c0-66b3-46ba-9a84-4a4d0d3a1034">
 
 # GPT的原理
 
@@ -51,6 +56,10 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 6. 目前即便是GPT-4尚缺少面向对象的能力，所以架构方面的优化更指望不上了。但是在人类的提示下，它可以帮忙完成类的封装，类的具体代码实现。
 7. 帮忙做代码review也是很重要的工作，包括虽然ChatGPT在出错的时候认错态度很好，但他认为自己“正确”的时候也会坚持自己的观点。
 8. 防止沉迷，拒绝依赖
+
+# 基于GPT的机器人开发基础
+## API调用及实践
+## 接入DevOps（两种Deployment/Job）
 
 ## 扩展讨论
 - 大语言模型有视觉吗？
