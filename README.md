@@ -6,15 +6,23 @@ GPT、ChatGPT、AIGC、LLM、GAI
 
 GPT-3.5 的回答：
 
-<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPT-md/assets/20229719/d24b14ad-7864-4dc6-b9b1-b15e6c0d3c63">
+<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/b6e5b144-5faf-4f7f-a15f-4ca943a900a6">
 
 GPT-4 的回答：
 
 <img width="600" alt="image" src="https://github.com/OpenRHINO/RHINO-Operator/assets/20229719/583d3a2c-4486-42be-80ac-bc099e79fbe7">
 
 各种大模型：
+
 <img width="600" alt="image" src="https://luxiangdong.com/images/AILLMs.png">
+
 Ref: https://www.luxiangdong.com/2023/04/16/llms/
+
+# Let's Chat
+
+10 min 自由提问
+
+30 min 分享讨论
 
 # GPT-3.5 和 GPT-4 的能力差异
 一只熊在地上放了一罐蜂蜜，它往南走了一百米，又往西走了一百米，最后往北走了一百米，又回到了那罐蜂蜜那里。请问这只熊是什么颜色的？
@@ -24,10 +32,14 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 ## 能力/差距从何而来？
 <font size="3">大</font>、<font size="5">大、</font><font size="6">更</font><font size="7">大</font>
 
+<img width="865" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/e43db5c0-66b3-46ba-9a84-4a4d0d3a1034">
 
-## 一些实际案例
+# GPT的原理
+
+# 个人主页 or shell 编程实操
+
+# 一些实际案例
 - https://chat.openai.com/c/a49e15a9-d374-46ae-a68c-25cf2cd30eac
-- https://chat.openai.com/c/9fadee42-b9bf-4daf-800c-cd058735f62a
 - https://github.com/OpenRHINO/GPT-Assist
 
 ## 实践总结
