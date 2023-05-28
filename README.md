@@ -59,8 +59,10 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 # 个人主页 or shell 编程实操
 
 # 一些实际案例
-- https://chat.openai.com/c/a49e15a9-d374-46ae-a68c-25cf2cd30eac
-- https://github.com/OpenRHINO/GPT-Assist
+- https://chat.openai.com/c/a49e15a9-d374-46ae-a68c-25cf2cd30eac （具体程序实现）
+- https://chat.openai.com/c/89074061-ba05-4a98-bce0-375f1628984e （方案设计）
+- https://chat.openai.com/c/5219e499-45a6-409c-86ab-ae8b2d31da9d （市场监管从方案到代码，模拟）
+- https://github.com/OpenRHINO/GPT-Assist （GPT辅助CICD）
 
 ## 实践总结
 1. 由于目前API调用的限制，和Copilot-X等工具现在排队的现状，目前对于一线程序员来说，最快的用上GPT-4的方法仍然是通过ChatGPT。
