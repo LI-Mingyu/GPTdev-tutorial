@@ -22,7 +22,7 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 
 10 min 自由提问
 
-30 min 分享讨论
+20 min 分享讨论
 
 # GPT-3.5 和 GPT-4 的能力差异
 一只熊在地上放了一罐蜂蜜，它往南走了一百米，又往西走了一百米，最后往北走了一百米，又回到了那罐蜂蜜那里。请问这只熊是什么颜色的？
@@ -39,7 +39,16 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 
 <img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/e43db5c0-66b3-46ba-9a84-4a4d0d3a1034">
 
+“大力出奇迹”
+
 # GPT的原理
+<img width="1483" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/4aef49d5-e48f-440a-88bd-52c2b825d7d2">
+<img width="1178" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/eb00d66a-b8fe-44a2-a58a-fb67bcdf5018">
+<img width="1558" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/ec4fcf11-dc38-44c5-8654-a171dd7fe765">
+<img width="1186" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/7e83361c-b884-4110-81ff-ce210e4d02df">
+<img width="1256" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/21516584-9b7a-494d-afd2-18ff0128d4b3">
+<img width="1312" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/d8c7008c-e157-4afc-9462-07e542e1f3dc">
+
 
 # 个人主页 or shell 编程实操
 
