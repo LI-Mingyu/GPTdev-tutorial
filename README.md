@@ -30,7 +30,13 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 生成代码的Bug数量（推理能力、序列长度）
 
 ## 能力/差距从何而来？
-<font size="3">大</font>、<font size="5">大、</font><font size="6">更</font><font size="7">大</font>
+
+大
+
+### 大
+
+## 更大
+
 | 模型  | 发布时间    | 参数量    | 预训练数据量 |
 |------|-------------|----------|-------------|
 | GPT  | 2018 年 6 月| 1.17 亿 | 约 5GB     |
@@ -42,12 +48,12 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 “大力出奇迹”
 
 # GPT的原理
-<img width="1483" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/4aef49d5-e48f-440a-88bd-52c2b825d7d2">
-<img width="1178" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/eb00d66a-b8fe-44a2-a58a-fb67bcdf5018">
-<img width="1558" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/ec4fcf11-dc38-44c5-8654-a171dd7fe765">
-<img width="1186" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/7e83361c-b884-4110-81ff-ce210e4d02df">
-<img width="1256" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/21516584-9b7a-494d-afd2-18ff0128d4b3">
-<img width="1312" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/d8c7008c-e157-4afc-9462-07e542e1f3dc">
+<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/4aef49d5-e48f-440a-88bd-52c2b825d7d2"><br>
+<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/eb00d66a-b8fe-44a2-a58a-fb67bcdf5018"><br>
+<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/ec4fcf11-dc38-44c5-8654-a171dd7fe765"><br>
+<img width="500" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/7e83361c-b884-4110-81ff-ce210e4d02df"><br>
+<img width="500" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/21516584-9b7a-494d-afd2-18ff0128d4b3"><br>
+<img width="500" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/d8c7008c-e157-4afc-9462-07e542e1f3dc"><br>
 
 
 # 个人主页 or shell 编程实操
