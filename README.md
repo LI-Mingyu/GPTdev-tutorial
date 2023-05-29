@@ -91,8 +91,6 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 
 - 大语言模型有视觉吗？
 https://chat.openai.com/c/f34a90fa-8d63-4f34-b093-1ab10d829990
-<img width="543" alt="image" src="https://github.com/LI-Mingyu/GPT-md/assets/20229719/23243d5f-1050-4d68-bb8d-48c3e968a718">
-<img width="543" alt="image" src="https://github.com/LI-Mingyu/GPT-md/assets/20229719/8ecd7d91-1ce6-4030-b028-1562c8de44fb">
 
 - AI和人谁更擅长“搞定人”
 
