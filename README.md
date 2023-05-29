@@ -43,9 +43,17 @@ Ref: https://www.luxiangdong.com/2023/04/16/llms/
 | GPT-2| 2019 年 2 月| 15 亿   | 40GB       |
 | GPT-3| 2020 年 5 月| 1,750 亿| 45TB       |
 
-<img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/e43db5c0-66b3-46ba-9a84-4a4d0d3a1034">
+## "参数"是什么？
+<img width="272" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/44854336-3dbd-495b-8033-7b3e9f335ce8"><br>
+Neural Network<br>
+<img width="400" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/b189edf2-45e6-4d7c-962e-4ceafeafc7a3"><br>
+Deep Neural Network<br>
+<img width="500" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/da9f5df0-567f-4199-9632-bcf9a2a910f6"><br>
 
-“大力出奇迹”
+
+<img width="700" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/e43db5c0-66b3-46ba-9a84-4a4d0d3a1034">
+
+### “大力出奇迹”
 
 # GPT的原理
 <img width="600" alt="image" src="https://github.com/LI-Mingyu/GPTdev-tutorial/assets/20229719/4aef49d5-e48f-440a-88bd-52c2b825d7d2"><br>
