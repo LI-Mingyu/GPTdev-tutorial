@@ -140,35 +140,46 @@ Deep Neural Network<br>
 
 # 基于GPT的机器人开发基础
 ## API调用及实践
-- 设置OpenAI API环境
+### 设置OpenAI API环境
 
-如何获取API密钥
+- 如何获取API密钥
 
-安装所需的库（例如Python的openai库）
+https://platform.openai.com/account/api-keys
 
-配置环境变量
+- 安装所需的库（例如Python的openai库）
+```
+pip install openai
+```
+- 配置环境变量
+```
+export OPENAI_API_KEY=your-api-key
+```
+```
+set OPENAI_API_KEY=your-api-key
+```
 
-- OpenAI API的使用步骤
+### OpenAI API的使用步骤
 
-初始化API客户端
+- 初始化API客户端
 
-创建请求：选择模型、设置参数、构造输入
+- 创建请求：选择模型、设置参数、构造输入
+https://platform.openai.com/docs/api-reference
 
-发送请求并获取响应
+- 发送请求并获取响应
 
-解析响应和构造最终结果
+- 解析响应和构造最终结果
 
-- 深入与提高
+### 深入与提高
 
-探索不同的API参数和选项
+- 探索不同的API参数和选项
 
-异常处理和API的限制
+- 请求频率限制 & 请求和响应的大小限制
 
-改进模型的预测质量
+- 异常处理：API Key无效、参数错误、限流……
 
-管理API请求以优化成本
+- 管理API请求以优化成本
 
-- 实践：一个简单的OpenAI API调用示例
+### 实践：一个简单的OpenAI API调用示例
 ## 接入DevOps（两种Deployment/Job）
 
 </br>
